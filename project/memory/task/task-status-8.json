@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 8,
+  "title": "AI Photo Analysis Integration",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Integrate OpenAI Vision API to provide AI-powered photo analysis features. Implement: automatic tag generation on upload, photo feedback/critique on demand, caption suggestions for social sharing, and edit suggestions. Build UI for displaying AI insights on photo detail page and requesting analysis. Implement rate limiting and usage tracking. AI features gated to premium subscribers (free users get 5 AI analyses). Out of scope: Style transfer, automated editing application.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:36.285Z"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 4,
+  "title": "User Profiles with Photo Grid",
+  "status": "pending",
+  "priority": "high",
+  "description": "Build user profile pages displaying user information, their uploaded photos in a grid layout, follower/following counts, and photo count statistics. Implement profile editing functionality for users viewing their own profile (display name, bio, avatar). Create reusable photo card component used across the application. Profile URLs should use username slugs. Out of scope: Follow/unfollow functionality (separate task), other users' follower lists.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:34.293Z"
+}

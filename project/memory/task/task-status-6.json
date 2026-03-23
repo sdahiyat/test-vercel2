@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 6,
+  "title": "Follow/Unfollow System with Discovery",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement follow/unfollow functionality between users. Build follower and following list pages accessible from profiles. Create user discovery feature showing suggested users to follow (initially: recently active users, users with most photos). Include follow button component used on profiles, feed items, and discovery page. Out of scope: Algorithmic follow suggestions based on interests.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:35.361Z"
+}

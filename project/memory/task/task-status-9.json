@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 9,
+  "title": "Search Functionality for Users and Photos",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement search across users and photos. Build search UI with unified search bar in navigation. User search matches on username and display name. Photo search matches on AI-generated tags, captions, and manual tags. Implement Postgres full-text search for performance. Display search results with appropriate cards for each type. Include recent searches and search suggestions. Out of scope: Advanced filters (date range, camera type, etc.).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:36.920Z"
+}

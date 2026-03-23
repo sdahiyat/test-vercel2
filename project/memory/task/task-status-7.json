@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 7,
+  "title": "Photo Engagement: Likes and Comments",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build like and comment functionality for photos. Implement photo detail page showing full-size image, complete metadata, and all comments. Like button with optimistic UI updates and animation. Comment form with real-time comment list updates. Display engagement on feed items and photo cards. Include notification of new likes/comments (in-app indicator, not push). Out of scope: Comment replies/threading, comment editing.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:35.777Z"
+}

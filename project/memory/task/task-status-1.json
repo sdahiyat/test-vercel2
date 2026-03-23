@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 1,
+  "title": "Database Schema & Core Infrastructure Setup",
+  "status": "pending",
+  "priority": "high",
+  "description": "Design and implement the complete database schema for PhotoBuddy including all tables, relationships, indexes, and Row Level Security policies. This includes: users table (profile data, subscription tier, settings), photos table (url, metadata, EXIF data, AI-generated tags, user_id), follows table (follower_id, following_id), likes table (user_id, photo_id), comments table (user_id, photo_id, content), and subscriptions table (user_id, plan, status, dates). Configure Supabase Storage bucket for photo uploads with appropriate access policies. Out of scope: Authentication UI, application code that uses these tables.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:32.426Z"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 10,
+  "title": "Settings and Account Management",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build settings pages for user account management including: profile settings (covered in profiles task but linked here), account settings (email change, password change), privacy settings (profile visibility, who can comment), notification preferences (email notifications toggle), and account deletion with data export (GDPR compliance). Out of scope: Granular notification types, advanced privacy controls.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:37.572Z"
+}

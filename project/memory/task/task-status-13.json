@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 13,
+  "title": "Navigation, Layout, and Responsive Design",
+  "status": "pending",
+  "priority": "high",
+  "description": "Build the core application shell including navigation header, mobile navigation, page layouts, and ensure full mobile responsiveness across all pages. Implement: desktop header with logo, search, upload button, and user menu; mobile bottom navigation bar; responsive grid layouts for photo displays; touch-friendly interactions for mobile. Create loading skeletons and error boundary components. Out of scope: PWA features, offline support.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:39.137Z"
+}

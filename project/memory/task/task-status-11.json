@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 11,
+  "title": "Subscription System with Stripe Integration",
+  "status": "pending",
+  "priority": "low",
+  "description": "Implement freemium subscription system with Stripe. Define two tiers: Free (50 photo uploads, 5 AI analyses) and Pro ($10/month, unlimited uploads, unlimited AI). Build Stripe checkout flow, webhook handling for subscription events, subscription management UI (upgrade, cancel, view billing), and feature gating middleware. Handle failed payments and subscription lapses gracefully. Out of scope: Annual billing, team plans, refunds.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:38.046Z"
+}

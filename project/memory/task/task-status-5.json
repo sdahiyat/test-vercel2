@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 5,
+  "title": "Social Feed with Infinite Scroll",
+  "status": "pending",
+  "priority": "high",
+  "description": "Implement the home page feed showing photos from followed users in reverse chronological order. Build infinite scroll pagination loading more photos as user scrolls. Include feed item display showing photo, photographer info, timestamp, and engagement counts (likes, comments). Handle empty states for new users with no follows. Out of scope: Algorithmic feed ranking, engagement interactions (likes/comments are display only here).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-23T19:39:34.729Z"
+}
